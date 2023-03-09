@@ -2,7 +2,7 @@
  
 Adventure of smiles
 
-#Motivation
+# Motivation
 
 This project I have build for 2 purposes
 1. I needed to make something interesting for course project
